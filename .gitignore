@@ -1,0 +1,12 @@
+# OS / editor
+Thumbs.db
+.DS_Store
+desktop.ini
+*.tmp
+~$*
+# UE5
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
